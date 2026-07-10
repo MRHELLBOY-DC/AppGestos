@@ -1,0 +1,6 @@
+opencv-python==4.9.0.80
+numpy==1.26.4
+tensorflow==2.15.0
+mediapipe==0.10.5
+gTTS==2.5.4
+pygame==2.6.1
